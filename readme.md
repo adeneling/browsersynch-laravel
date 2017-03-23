@@ -20,6 +20,11 @@ If you are developing on a Windows system or you are running your VM on a Window
 npm install --no-bin-links
 ```
 # BrowserSync
+BrowserSync seems to have been ditched from the official docs, but looking into the source code it is still there, also conveniently configured and ready to be launched.
+
+Just edit your `webpack.mix.js` file to include `mix.browserSync();` and then run `npm run watch` on your console.
+
+By default, a browser window will open pointing to localhost:3000. Change and save any file and you should see your browser instantly refresh to reflect the change.
 
 ```js
 mix.browserSync('my-site.dev');
