@@ -53,4 +53,6 @@ The npm run watch command will continue running in your terminal and watch all r
 ```js
 npm run watch
 ```
-
+# Source Information
+- [Laracasts Discuss](https://laracasts.com/discuss/channels/laravel/laravel-mix-and-browsersync)
+- [JeffreyWay](https://github.com/JeffreyWay/laravel-mix/blob/master/docs/browsersync.md)
