@@ -56,3 +56,4 @@ npm run watch
 # Source Information
 - [Laracasts Discuss](https://laracasts.com/discuss/channels/laravel/laravel-mix-and-browsersync)
 - [JeffreyWay](https://github.com/JeffreyWay/laravel-mix/blob/master/docs/browsersync.md)
+- [Laravel Documentation](https://laravel.com/docs/5.4/mix#browsersync-reloading)
